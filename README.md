@@ -10,7 +10,7 @@
 <img src="https://i.imgur.com/mCnknrm.png" height="100%" width="100%">
 
 </td>
-<td>
+<td style="width: 50%;">
 
 ```js
 ('b'+ 'a' + + 'a'+'a').toLowerCase()
