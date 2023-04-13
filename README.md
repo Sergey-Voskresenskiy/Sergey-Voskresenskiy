@@ -1,1 +1,1 @@
-[![Header](https://i.imgur.com/mCnknrm.png  | height=100 )]
+[![Header](https://i.imgur.com/mCnknrm.png){:height="350px"}]
