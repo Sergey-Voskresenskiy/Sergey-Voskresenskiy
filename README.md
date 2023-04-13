@@ -4,17 +4,14 @@
 <tr>
   <th>Img >:D</th>
   <th>Info</th>
+  <th></th>
 </tr>
 <tr>
-<td style="width: 50%;">
-<img src="https://i.imgur.com/mCnknrm.png" height="100%" width="100%">
+<td colspan="2">
+<img src="https://i.imgur.com/mCnknrm.png" width="100%">
 
 </td>
-<td style="width: 50%;">
-
-```js
-('b'+ 'a' + + 'a'+'a').toLowerCase()
-```
+<td colspan="1">
 
 ![Sergey-Voskresenskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Voskresenskiy&show_icons=true)
 [![.dots](https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Voskresenskiy&show_icons=true&repo=.dots)](https://github.com/Sergey-Voskresenskiy/.dots)
