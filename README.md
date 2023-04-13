@@ -3,7 +3,7 @@
 <table>
 <tr>
   <th>Img >:D</th>
-  <th>Info</th>
+  <th></th>
   <th></th>
 </tr>
 <tr>
