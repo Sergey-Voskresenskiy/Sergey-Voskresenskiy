@@ -1,6 +1,6 @@
 
 <table><tr><td valign="top" width="49%">
-<img align="left" alt="PNG" src="https://i.imgur.com/mCnknrm.png" width="360px" style="margin-right: 30px;"/>
+<img align="left" alt="PNG" src="https://i.imgur.com/mCnknrm.png" width="100%" />
 </td><td valign="top" width="51%">
 
 ![Sergey-Voskresenskiy GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Voskresenskiy&show_icons=true&theme=gruvbox)
